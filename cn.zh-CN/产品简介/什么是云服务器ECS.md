@@ -27,21 +27,21 @@
 
 ## 相关服务 {#section_ogy_tqj_ydb .section}
 
-您可以从 [云市场](https://www.alibabacloud.com/marketplace) 获取由第三方服务商提供的基础软件、企业软件、网站建设、代运维、云安全、数据及API、解决方案等相关的各类软件和服务。您也可以成为云市场服务供应商。更多信息，请参考 [云市场文档](https://www.alibabacloud.com/help/product/30488.htm)。
+- 您可以从 [云市场](https://www.alibabacloud.com/marketplace) 获取由第三方服务商提供的基础软件、企业软件、网站建设、代运维、云安全、数据及API、解决方案等相关的各类软件和服务。您也可以成为云市场服务供应商。更多信息，请参考 [云市场文档](https://www.alibabacloud.com/help/product/30488.htm)。
 
-您可以根据业务需求和策略的变化自动调整ECS资源。更多信息，请参考 [弹性伸缩文档](https://www.alibabacloud.com/help/product/25855.htm)。
+- 您可以根据业务需求和策略的变化自动调整ECS资源。更多信息，请参考 [弹性伸缩文档](https://www.alibabacloud.com/help/product/25855.htm)。
 
-您可以在一组云服务器ECS上通过Docker容器管理应用生命周期。更多信息，请参考 [容器服务（Container Service）文档](https://www.alibabacloud.com/help/product/25972.htm)。
+- 您可以在一组云服务器ECS上通过Docker容器管理应用生命周期。更多信息，请参考 [容器服务（Container Service）文档](https://www.alibabacloud.com/help/product/25972.htm)。
 
-您可以对多台云服务器ECS实现流量分发的负载均衡服务。更多信息，请参考 [负载均衡（Server Load Balancer）文档](https://www.alibabacloud.com/help/product/27537.htm)。
+- 您可以对多台云服务器ECS实现流量分发的负载均衡服务。更多信息，请参考 [负载均衡（Server Load Balancer）文档](https://www.alibabacloud.com/help/product/27537.htm)。
 
-您可以监控ECS实例、系统盘和公网带宽等。更多信息，请参考 [云监控（CloudMonitor）文档](https://www.alibabacloud.com/help/product/28572.htm)。
+- 您可以监控ECS实例、系统盘和公网带宽等。更多信息，请参考 [云监控（CloudMonitor）文档](https://www.alibabacloud.com/help/product/28572.htm)。
 
-您可以使用安骑士保障云服务器ECS的安全。更多信息，请参考 [安骑士文档](https://www.alibabacloud.com/help/product/28449.htm)。
+- 您可以使用安骑士保障云服务器ECS的安全。更多信息，请参考 [安骑士文档](https://www.alibabacloud.com/help/product/28449.htm)。
 
-对于部署在云服务器ECS上的应用，阿里云为您提供了免费的DDoS基础防护，您也可以使用DDoS高防IP保障源站的稳定可靠。更多信息，请参考 [DDoS基础防护文档](https://www.alibabacloud.com/help/doc-detail/28399.htm) 和 [DDoS高防IP文档](https://www.alibabacloud.com/help/doc-detail/28464.htm)。
+- 对于部署在云服务器ECS上的应用，阿里云为您提供了免费的DDoS基础防护，您也可以使用DDoS高防IP保障源站的稳定可靠。更多信息，请参考 [DDoS基础防护文档](https://www.alibabacloud.com/help/doc-detail/28399.htm) 和 [DDoS高防IP文档](https://www.alibabacloud.com/help/doc-detail/28464.htm)。
 
-您可以编写代码调用阿里云开发者工具包（SDK）访问阿里云的产品和服务，更多信息，请参考 [阿里云开发工具包\(SDK\)](https://www.alibabacloud.com/support/developer-resources)。您可以使用 [OpenAPI Explorer](https://api.aliyun.com/) 在线调试ECS API，并生成对应SDK Demo代码。
+- 您可以编写代码调用阿里云开发者工具包（SDK）访问阿里云的产品和服务，更多信息，请参考 [阿里云开发工具包\(SDK\)](https://www.alibabacloud.com/support/developer-resources)。您可以使用 [OpenAPI Explorer](https://api.aliyun.com/) 在线调试ECS API，并生成对应SDK Demo代码。
 
 ## 使用ECS {#section_lsd_yqj_ydb .section}
 
